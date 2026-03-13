@@ -2,6 +2,7 @@ streamlit
 pandas
 numpy
 scikit-learn
-keras
+tensorflow==2.15.0
+keras==2.15.0
 joblib
 h5py
