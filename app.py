@@ -7,7 +7,7 @@ from tensorflow.keras.models import load_model
 # =============================
 # Load saved files
 # =============================
-model = load_model("csat_ann_model.h5")
+model = load_model("csat_ann_model.keras")
 scaler = joblib.load("scaler.pkl")
 training_columns = joblib.load("training_columns.pkl")
 
