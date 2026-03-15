@@ -1,0 +1,21 @@
+steps to run the streamlit app in the terminal localy
+
+>> python --version
+Install if not available
+
+Open Terminal in Your Project Folder
+Example:
+cd C:\Users\Desktop\csat_project
+
+Create a Virtual Environment
+>> python -m venv venv
+
+activate it
+>> venv\Scripts\activate
+
+Install Dependencies
+>> pip install -r requirements.txt
+>> pip install streamlit
+
+Run the streamlit app
+>> streamlit run app.py
