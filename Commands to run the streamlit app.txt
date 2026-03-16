@@ -3,6 +3,14 @@ steps to run the streamlit app in the terminal localy
 >> python --version
 Install if not available
 
+Download into a folder
+1 app.py
+2 scat_model.kers
+3 requirements.txt
+4 runtime.txt
+5 scaler.pkl
+6 training_columns
+
 Open Terminal in Your Project Folder
 Example:
 cd C:\Users\Desktop\csat_project
